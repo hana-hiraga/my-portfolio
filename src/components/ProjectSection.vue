@@ -63,7 +63,7 @@ export default {
           title: 'マイナビwebサイト',
           subtitle: 'レスポンシブ対応のwebサイトの作成をおこないました。',
           image: require('@/assets/my-navi-project.jpeg'),
-          url: 'https://example.com/project1' , // 作品のURLを追加
+          url: 'https://my-navi-demo-site.netlify.app/' , // 作品のURLを追加
           language: 'html css jquery'
 
         },
