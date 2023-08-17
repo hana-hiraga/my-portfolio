@@ -28,7 +28,7 @@ const routes = [
 
   {
     path: '*',
-    redirect: '/ProjectSection',
+    redirect: '/aboutMe',
   },
   
 ];

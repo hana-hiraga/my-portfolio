@@ -118,9 +118,7 @@ export default {
   font-weight: bold;
   letter-spacing: 2px;
 }
-.brand-name {
-  /* 縦書き */
-}
+
 .brand-profile {
   font-family: "Karla", "Source Sans Pro", "NotoSansCJKjp",
     "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", sans-serif;
