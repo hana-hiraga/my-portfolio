@@ -52,9 +52,20 @@
       </v-col>
 
       <v-col md="6" class="experience">
-        <h3>経験</h3>
-        <!-- ここに経験の一覧を表示 -->
-      </v-col>
+  <h3>経験</h3>
+  <ul>
+    <li>
+      <strong>学び：</strong>
+      フロントエンドエンジニアリングに関する知識をスクールや独学で積極的に学んできた。特に、デジタルハリウッドスクールでのコンペ形式のサイト作成経験を通じて、実践的なスキルを身につけた。
+    </li>
+    <li>
+      <strong>アルバイト経験：</strong>
+      大学生時代にはBEAMSのアパレル店員として3年間の貴重な経験を積み、顧客対応や商品管理、店舗運営のスキルを習得。また、卒業後はオーストラリアのレストランでホールスタッフとして勤務し、異文化環境でのコミュニケーション能力や柔軟性を培った。
+    </li>
+  </ul>
+ 
+</v-col>
+
     </v-row>
 
   </v-container>
@@ -105,7 +116,7 @@ export default {
 
 
 .introduce p {
-  margin-top: 24px;
+  margin-top: 30px;
 }
 
 .skill {
@@ -114,14 +125,14 @@ export default {
 
 
 .skill ul {
-  margin-top: 24px;
+  margin-top: 30px;
 }
 .skill li {
   margin-top: 20px;
 }
 
 .personal h3{
-  margin-bottom: 24px;
+  margin-bottom: 30px;
 
 }
 .question {
@@ -130,6 +141,13 @@ export default {
 .experience {
   padding-left: 30px;
   
+  
+}
+.experience ul {
+  margin-top: 30px;
+}
+.experience li {
+  margin-bottom: 20px;
 }
 
 
