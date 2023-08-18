@@ -67,6 +67,15 @@ export default {
           language: 'html css jquery'
 
         },
+        {
+          id: 2,
+          title: 'ポートフォリオ',
+          subtitle: 'vue.jsでオリジナルのポートフォリオを作成しました。（レスポンシブ作成中）',
+          image: require('@/assets/my-portfolio-img.jpeg'),
+          url: 'https://hanas-portfolio.netlify.app/' , // 作品のURLを追加
+          language: 'html css vue.js'
+
+        },
         // さらに作品を追加
       ],
       dialog: false,  // ダイアログ表示のためのフラグ
