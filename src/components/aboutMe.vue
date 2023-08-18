@@ -13,6 +13,7 @@
       <v-col md="6" class="skill">
         <h3>テクニカルスキル</h3>
         <ul>
+          <li><strong>言語能力</strong> TOEIC 810点・英語での日常会話でしたら問題ございません。　</li>
   <li><strong>HTML/CSS:</strong> Webページの基本的なマークアップとスタイリングを行うことができます。</li>
   <li><strong>JavaScript:</strong> JavaScriptを使って、基本的なインタラクティブなウェブサイトを開発することができます。</li>
   <li><strong>Vue.js:</strong> Vue.jsの基本的な知識を持っており、シンプルなシングルページアプリケーションを作成することができます。</li>
