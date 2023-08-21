@@ -31,6 +31,14 @@
             jQueryを使用して、DOM操作やイベントハンドリング、アニメーション等を実装することができます。
           </li>
           <li>
+    <strong>Photoshop:</strong>
+    スクールで名刺やホームページのカンプの作成経験があり、基本的な操作を習得しています。
+  </li>
+  <li>
+    <strong>Illustrator:</strong>
+    スクールでの学習を通じて、基本的なデザインの制作やカンプ作成ができます。
+  </li>
+          <li>
             <strong>自己学習:</strong>
             プログラミングスクールでの学習を経て、HTML、CSS、JavaScriptの基本を理解。それを基に、Vue.jsやjQueryなどのフレームワーク・ライブラリの学習を独学で進めています。
           </li>
