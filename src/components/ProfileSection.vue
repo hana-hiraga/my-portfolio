@@ -12,7 +12,8 @@
         />
 
         <div class="profile-text" ref="profileText">
-          <span>フロントエンドエンジニア志望</span>
+          <span>UI・UXデザイナー、フロントエンドエンジニア志望</span>
+          
           <p><strong>平賀 はな</strong></p>
         </div>
       </div>
